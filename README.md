@@ -2,24 +2,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianMengLucky)  
 
-Github:https://github.com/TianMengLucky  
-Discord:.huier  
-QQ:2133404320  
-QQ群:837094490  
-Bilibili:https://space.bilibili.com/394107547  
-GitCode:https://gitcode.com/Huier-Huang  
-Gitee:https://gitee.com/bilibili_MC  
-Gmail:mengchugood@gmail.com  
-X:https://x.com/Bili_TianMeng  
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TianMengLucky&theme=react-dark)  
 
-喜欢用GPL或者MIT许可证  
-GPL协议开源精神的魅力！！  
-MIT协议的自由！！  
+![gh](https://stats.justsong.cn/api/github/?username=TianMengLucky&theme=light)  
 
-只会C#,JAVA kotlin语法相似应该会,GO TypeScript Rust C++ 看得懂,Pyhton 如会  
 
-喜爱的角色：伊蕾娜，银狼，立华奏，甘城猫猫，芙芙，胡桃，炮姐，东方月初等略  
+需要联系请发邮箱或加QQ(2133404320)
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TianMengLucky&theme=react-dark)
+一个臭打游戏，看看番的。
 
-![gh](https://stats.justsong.cn/api/github/?username=TianMengLucky&theme=light)
+伊蕾娜，雪莉酱，云璃世界第一可爱！
